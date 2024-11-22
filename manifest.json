@@ -1,6 +1,0 @@
-{
-    "entrypoint": "Streamlit_SQLServer_Crosstab.py",
-    "title": "Streamlit_SQLServer_Crosstab",
-    "description": "Streamlit application to modify SQL Server data",
-    "runtime": "python3.130"
-}
