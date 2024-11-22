@@ -1,8 +1,8 @@
 {
-    "entrypoint": "Streamlit_SQLServer_Crosstab.py",
-    "title": "Streamlit_SQLServer_Crosstab",
-    "runtime": "python3.8",
-    "app_mode": "python",
-    "dependencies": ["flask", "pandas", "numpy","streamlit","pyodbc"]
-    
+    "app":{
+        "type": "streamlit",
+        "name": "Streamlit_SQLServer_Crosstab",
+        "path": "Streamlit_SQLServer_Crosstab.py",
+        "dependencies": ["flask", "pandas", "numpy","streamlit","pyodbc"]
+    }
 }
