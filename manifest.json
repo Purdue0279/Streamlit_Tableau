@@ -3,6 +3,6 @@
         "type": "streamlit",
         "name": "Streamlit_SQLServer_Crosstab",
         "path": "Streamlit_SQLServer_Crosstab.py",
-        "dependencies": ["flask", "pandas", "numpy","streamlit","pyodbc"]
+        "dependencies": ["flask", "pandas", "numpy","streamlit","pyodbc","requests_kerberos"]
     }
 }
