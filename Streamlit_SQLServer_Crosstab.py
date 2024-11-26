@@ -3,6 +3,8 @@ import pandas as pd
 import pyodbc
 import numpy as np
 import streamlit.components.v1 as components
+import requests
+from requests_kerberos import HTTPKerberosAuth, REQUIRED
 from st_aggrid import AgGrid
 
 # SQL Server connection parameters
