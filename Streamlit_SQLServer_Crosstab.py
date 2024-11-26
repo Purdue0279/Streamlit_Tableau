@@ -2,8 +2,12 @@ import streamlit as st
 import pandas as pd
 import pyodbc
 import numpy as np
+#import kerberos
 import streamlit.components.v1 as components
 import requests
+import setuptools
+import wheel
+import cython
 from requests_kerberos import HTTPKerberosAuth, REQUIRED
 from st_aggrid import AgGrid
 

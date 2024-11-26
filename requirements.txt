@@ -6,3 +6,6 @@ numpy
 ipython
 requests_kerberos
 requests
+setuptools
+cython
+wheel
