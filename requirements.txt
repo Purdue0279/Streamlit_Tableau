@@ -4,3 +4,5 @@ pandas
 pyodbc
 numpy
 ipython
+requests_kerberos
+requests
